@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.app {
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  top: 600px;
+  z-index: 90;
+
+  @media (max-width: 480px) {
+    top: 500px;
+  }
+}
