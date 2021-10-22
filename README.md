@@ -10,7 +10,7 @@ This project is built with ReactJS. This project used The Movie Database (TMDB) 
 
 ## Screenshots 📷
 
-![](screenshot/screenshot.png)
+![](screenshot/ss.png)
 
 ## Link 🔗
 
